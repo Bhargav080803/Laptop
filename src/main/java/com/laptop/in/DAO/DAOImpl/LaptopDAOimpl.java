@@ -16,7 +16,7 @@ public class LaptopDAOimpl implements LaptopDAO {
     private final EntityManager theManager;
 
 @Autowired
-    public LaptopDAOimpl(EntityManager theManager)  {
+    public LaptopDAOimpl(EntityManager theManager) {
         this.theManager = theManager;
     }
 
