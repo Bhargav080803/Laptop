@@ -110,14 +110,6 @@ public class LaptopApplication {
 
 
 
-
-
-
-
-
-
-
-
             }
 
         };
